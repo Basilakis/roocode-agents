@@ -263,3 +263,4 @@ For more information on how Structured Documentation integrates with other compo
 - [SPARC Framework Overview](sparc-overview.md)
 - [Cognitive Processes](cognitive-processes.md)
 - [Boomerang Logic](boomerang-logic.md)
+- [Agent Collaboration Patterns](agent-collaboration.md)

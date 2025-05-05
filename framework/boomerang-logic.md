@@ -168,3 +168,4 @@ For more information on how Boomerang Logic integrates with other components of 
 - [SPARC Framework Overview](sparc-overview.md)
 - [Cognitive Processes](cognitive-processes.md)
 - [Structured Documentation](structured-documentation.md)
+- [Agent Collaboration Patterns](agent-collaboration.md)

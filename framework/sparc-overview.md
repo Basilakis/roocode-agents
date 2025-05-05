@@ -60,8 +60,14 @@ This approach optimizes efficiency, reduces token usage, and ensures that each a
 ## How SPARC Works in Practice
 
 1. **Task Submission**: A user submits a complex task to the system
-2. **Orchestration**: The Orchestrator analyzes the task and breaks it down into subtasks
-3. **Assignment**: Subtasks are assigned to specialized agents based on their expertise
+2. **Orchestration**: The Orchestrator (Maestro) analyzes the task and breaks it down into subtasks
+3. **Assignment**: Subtasks are assigned to specialized agents based on their expertise:
+   - **Code Implementation**: FrontCrafter, ReactMaster, BackendForge, NodeSmith, PythonMaster, etc.
+   - **Architecture & Design**: Visionary, Blueprinter, DataArchitect, SecurityStrategist, etc.
+   - **Testing & Debugging**: TestCrafter, SecurityTester, PerformanceEngineer, CodeReviewer, etc.
+   - **Research & Requirements**: Researcher, Strategist
+   - **Documentation & Content**: ContentWriter, Documentarian
+   - **Memory & Context**: Memory Agent
 4. **Processing**: Each agent applies appropriate cognitive processes from the library
 5. **Documentation**: All work is documented according to standardized formats
 6. **Return**: Completed subtasks return to the Orchestrator via Boomerang Logic
@@ -96,3 +102,4 @@ For more detailed information on each component of the SPARC Framework, see:
 - [Cognitive Processes](cognitive-processes.md)
 - [Boomerang Logic](boomerang-logic.md)
 - [Structured Documentation](structured-documentation.md)
+- [Agent Collaboration Patterns](agent-collaboration.md)

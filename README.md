@@ -17,13 +17,39 @@ This repository implements a comprehensive AI workflow system based on the SPARC
 
 The system includes the following specialized modes:
 
-- **🪃 Orchestrator**: Task decomposition, assignment, and verification
+- **🪃 Orchestrator (Maestro)**: Task decomposition, assignment, and verification
 - **💻 Code**: Software implementation and optimization
+  - **FrontCrafter**: Frontend development and UI implementation
+  - **ReactMaster**: React.js specialized development
+  - **BackendForge**: Backend system implementation
+  - **NodeSmith**: Node.js specialized development
+  - **PythonMaster**: Python specialized development
+  - **MobileDeveloper**: Mobile application development
+  - **ApiArchitect**: API design and implementation
+  - **SqlMaster**: SQL database implementation
+  - **NoSqlSmith**: NoSQL database implementation
 - **🏛️ Architect**: System design and pattern application
+  - **Visionary**: High-level system design and technology stack selection
+  - **Blueprinter**: Detailed system design and component specification
+  - **DataArchitect**: Database and data flow design
+  - **SecurityStrategist**: Security architecture and strategy
+  - **InfraPlanner**: Infrastructure and deployment architecture
+  - **PlanReviewer**: Architecture and design review
 - **❓ Ask**: Information retrieval, evaluation, and communication
+  - **ContentWriter**: User guides and general content creation
+  - **Documentarian**: Technical documentation and API documentation
 - **🪲 Debug**: Problem diagnosis and solution validation
+  - **TestCrafter**: Test strategy development and implementation
+  - **SecurityTester**: Security testing and vulnerability assessment
+  - **PerformanceEngineer**: Performance testing and optimization
+  - **CodeReviewer**: General code review and quality assessment
+  - **FrontendInspector**: Frontend-specific code review
+  - **BackendInspector**: Backend-specific code review
+  - **DevSecOps**: Security operations and integration
 - **💾 Memory**: Knowledge storage, organization, and retrieval
-- **🔍 Deep Research**: In-depth investigation and analysis
+- **🔍 Research**: In-depth investigation and analysis
+  - **Researcher**: Comprehensive technology and domain research
+  - **Strategist**: Requirements gathering and analysis
 
 ## 🏗️ Architecture
 
@@ -169,7 +195,7 @@ Below is an architectural overview of how the Roo framework operates:
 │  │ • Create memory folder │───►│ • Store project data  │       │
 │  │ • Extract key learnings│    │ • Index for retrieval │       │
 │  │ • Organize artifacts   │    │ • Version tracking    │       │
-│  └────────────────────────┘    └─────────┬─────────────┘       │ 
+│  └────────────────────────┘    └─────────┬─────────────┘       │
 │                                           │                     |
 │                                           ▼                     │
 │  ┌────────────────────────┐    ┌───────────────────────┐       │
@@ -185,7 +211,7 @@ Below is an architectural overview of how the Roo framework operates:
                  └───────────────────────────────────┐
                                                      ▼
 ┌─────────────────────────────────┐      ┌─────────────────────────┐
-│           Orchestrator          │      │  Feedback loop w/ User  │  
+│           Orchestrator          │      │  Feedback loop w/ User  │
 │     (System Prompt contains:    │      │     (Customer with      │
 │      roles, definitions,        │◄─────┤     minimal context)    │
 │      systems, processes,        │      │                         │
@@ -327,12 +353,13 @@ After pasting this prompt, your AI assistant will guide you through creating the
 
 ### SPARC Framework
 
-The SPARC Framework consists of four key components:
+The SPARC Framework consists of five key components:
 
 1. **Cognitive Process Library**: Reusable reasoning patterns for different types of tasks
 2. **Boomerang Logic**: Task delegation and return system
 3. **Structured Documentation**: Standardized documentation approach
-4. **"Scalpel, not Hammer" Philosophy**: Efficient resource usage
+4. **Agent Collaboration Patterns**: Specialized agent interaction protocols
+5. **"Scalpel, not Hammer" Philosophy**: Efficient resource usage
 
 ### Boomerang Logic
 
@@ -342,6 +369,15 @@ The Boomerang Logic system ensures reliable task tracking:
 2. Specialist modes process assigned tasks
 3. Completed tasks return to the Orchestrator
 4. The Orchestrator verifies and integrates results
+
+### Agent Collaboration Patterns
+
+The Agent Collaboration system enables direct interaction between specialized agents:
+
+1. **Direct Consultation**: One agent consults another for specific expertise
+2. **Collaborative Task Execution**: Multiple agents work together on a task
+3. **Review and Feedback**: One agent reviews another agent's work
+4. **Handoff**: One agent completes its part and passes to another agent
 
 ### Memory System
 

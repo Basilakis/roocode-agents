@@ -174,3 +174,4 @@ For more information on how these cognitive processes integrate with other compo
 - [SPARC Framework Overview](sparc-overview.md)
 - [Boomerang Logic](boomerang-logic.md)
 - [Structured Documentation](structured-documentation.md)
+- [Agent Collaboration Patterns](agent-collaboration.md)
