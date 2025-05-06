@@ -26,7 +26,7 @@
       "assigned_time": "2025-04-30T12:10:00Z",
       "completed_time": "2025-04-30T12:32:00Z",
       "artifacts": [
-        "agents/memory/memory-agent.md",
+        "Memory Mode documentation in .roomodes",
         ".roo/memory/projects/sample-project/artifacts/memory-mode-diagram.md"
       ]
     },

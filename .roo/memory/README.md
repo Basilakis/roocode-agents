@@ -68,4 +68,4 @@ The Memory System is automatically maintained by the Memory Agent, which:
 - Identifies patterns and insights
 - Archives less frequently accessed information
 
-For more information on the Memory Mode, see the [Memory Agent documentation](../../agents/memory/memory-agent.md).
+For more information on the Memory Mode, see the Memory Mode documentation in the .roomodes file.

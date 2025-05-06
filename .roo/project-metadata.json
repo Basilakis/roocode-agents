@@ -37,14 +37,14 @@
       "completion": 50,
       "owner": "Architect",
       "files": [
-        "agents/orchestrator/orchestrator-agent.md",
-        "agents/architect/architect-agent.md",
-        "agents/code/code-agent.md"
+        "Orchestrator Mode documentation in .roomodes",
+        "Architect Mode documentation in .roomodes",
+        "Code Mode documentation in .roomodes"
       ],
       "pending": [
-        "agents/research/research-agent.md",
-        "agents/debug/debug-agent.md",
-        "agents/ask/ask-agent.md"
+        "Research Mode documentation in .roomodes",
+        "Debug Mode documentation in .roomodes",
+        "Ask Mode documentation in .roomodes"
       ]
     },
     {
